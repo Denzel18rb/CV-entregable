@@ -84,7 +84,7 @@ header {
 }
 
 body {
-    background-image: url(imagenes/Background.jpg);
+    background-image: url(imagenes/Background.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
